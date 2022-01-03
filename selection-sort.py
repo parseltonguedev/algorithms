@@ -16,6 +16,7 @@ def find_smallest(array):
 
 
 print(find_smallest([50, 30, 10, 80, 20, 5, 99, 1]))
+print(find_smallest([-50]))
 
 
 def selection_sort(array):
